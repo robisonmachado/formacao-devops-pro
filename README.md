@@ -33,7 +33,7 @@ Seção: Git e GitHub
 |---                                                                    |---    |:--:|
 |Introdução                                            			        |OK     |-      |
 |Introdução a Git                                            		    |OK     |-      |
-|Instalação do Git                                            		    |OK     |-      |
-|Configuração Inicial e Primeiro Repositório Git                      	|OK     |-      |
+|Instalação do Git                                            		    |OK     |2022-08-10|
+|Configuração Inicial e Primeiro Repositório Git                      	|-      |-      |
 
 <br>
