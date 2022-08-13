@@ -34,6 +34,7 @@ Seção: Git e GitHub
 |Introdução                                            			        |OK     |-      |
 |Introdução a Git                                            		    |OK     |-      |
 |Instalação do Git                                            		    |OK     |2022-08-10|
-|Configuração Inicial e Primeiro Repositório Git                      	|-      |-      |
+|Configuração Inicial e Primeiro Repositório Git                      	|-      |2022-08-12|
+|Gerenciamento de Arquivos                      						|-      |2022-08-12|
 
 <br>
